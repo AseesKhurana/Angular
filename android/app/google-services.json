@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001501499769",
+    "firebase_url": "https://fluttertraining-c67bb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fluttertraining-c67bb",
+    "storage_bucket": "fluttertraining-c67bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001501499769:android:61f339a769a698a2c4cfa8",
+        "android_client_info": {
+          "package_name": "com.flutter.flutter_training"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001501499769-gbm0o00et38bofidbcp37gqbe0ibdh1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI25s3JnkCxbLiBdrar8suZ1ucp6lkjqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001501499769-gbm0o00et38bofidbcp37gqbe0ibdh1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
